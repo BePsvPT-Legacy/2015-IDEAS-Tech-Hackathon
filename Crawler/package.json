@@ -1,0 +1,25 @@
+{
+  "name": "Crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.8.0",
+    "request": "^2.60.0",
+    "step": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2015-IDEAS-Tech-Hackathon/Crawler.git"
+  },
+  "author": "ALiangLiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2015-IDEAS-Tech-Hackathon/Crawler/issues"
+  },
+  "homepage": "https://github.com/2015-IDEAS-Tech-Hackathon/Crawler"
+}
